@@ -39,7 +39,7 @@ window.addEventListener('click', function (event) {
                                         </div>
 
                                         <div class="price">
-                                            <div class="price__currency">${productInfo.price} <div class="items__control" data-action="delete">X</div></div>
+                                            <div class="price__currency">${productInfo.price}</div><div class="items__control" data-action="delete">X</div>
                                         </div>
 
                                     </div>
